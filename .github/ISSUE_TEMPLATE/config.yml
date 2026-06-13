@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: "💬 Just wanna chat or ask a question"
+  - name: " Just wanna chat or ask a question"
     url: https://github.com/Officialckazros/TuiCord/discussions
     about: "Not a bug, not a feature, just vibes? Discussions is the place to be."
-  - name: "☕ Buy me a coffee"
+  - name: " Buy me a coffee"
     url: https://ko-fi.com/ckazros
-    about: "Servers cost money and I run on caffeine. Zero pressure though! 💜"
+    about: "Servers cost money and I run on caffeine. Zero pressure though!"

@@ -1,4 +1,4 @@
-# Code of Conduct (a.k.a. Don't Be a Goblin 🧌)
+# Code of Conduct (a.k.a. Don't Be a Goblin)
 
 Hi! Welcome. This is the bit where I kindly ask you to be a decent human bean.
 
@@ -8,16 +8,16 @@ Hi! Welcome. This is the bit where I kindly ask you to be a decent human bean.
 
 Still here? Cool, here's the director's cut, because someone always asks "well what does *nice* even mean tho":
 
-### ✅ Certified cool behavior
+### Certified cool behavior
 - Be kind, patient, and generally pleasant to share a server with
 - Help people out — even when it's the 400th "why doesn't it work" of the day
 - Respect everyone, no matter who they are, what they look like, how they identify, or how many semicolons they forget
 
-### ❌ Goblin behavior (please no)
-- Harassment, slurs, threats, or being Generally Creepy™
+### Goblin behavior (please no)
+- Harassment, slurs, threats, or being Generally Creepy
 - Trolling, flame wars, or manufacturing drama for the lulz
 - Doxxing, leaking private stuff, or other genuinely-not-okay things
-- Being a jerk and then going "it's just a joke 🤷"
+- Being a jerk and then going "it's just a joke"
 
 ## If a goblin appears
 
@@ -27,4 +27,4 @@ I reserve the right to delete comments, close issues, and politely (or, if neede
 
 ---
 
-Be excellent to each other. 🎸✨
+Be excellent to each other.
