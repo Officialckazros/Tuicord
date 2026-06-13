@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.token
+*.log
+.DS_Store
+*.icloud
